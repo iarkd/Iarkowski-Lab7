@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=g
+comment0.target=void\ paint(java.awt.Graphics)
+comment1.params=g
+comment1.target=void\ Kirby(java.awt.Graphics)
+comment2.params=g
+comment2.target=void\ Kirby2(java.awt.Graphics)
+numComments=3
